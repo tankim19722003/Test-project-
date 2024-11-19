@@ -1,0 +1,316 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MyDocument\\AllSubject\\In class\\term 1 year 4\\Software quality Assurance and Tesing\\Excercises\\final project\\QuanLyBanHang_2_final1\\QuanLyBanHang_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|d:\\mydocument\\allsubject\\in class\\term 1 year 4\\software quality assurance and tesing\\excercises\\final project\\quanlybanhang_2_final1\\quanlybanhang_2\\quanlybanhang\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\MyDocument\\AllSubject\\In class\\term 1 year 4\\Software quality Assurance and Tesing\\Excercises\\final project\\QuanLyBanHang_2_final1\\QuanLyBanHang_2\\quanlybanhang\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\MyDocument\\AllSubject\\In class\\term 1 year 4\\Software quality Assurance and Tesing\\Excercises\\final project\\QuanLyBanHang_2_final1\\QuanLyBanHang_2\\quanlybanhang\\frmsanpham.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmsanpham.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\MyDocument\\AllSubject\\In class\\term 1 year 4\\Software quality Assurance and Tesing\\Excercises\\final project\\QuanLyBanHang_2_final1\\QuanLyBanHang_2\\quanlybanhang\\frmnhanvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmnhanvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\MyDocument\\AllSubject\\In class\\term 1 year 4\\Software quality Assurance and Tesing\\Excercises\\final project\\QuanLyBanHang_2_final1\\QuanLyBanHang_2\\quanlybanhang\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\MyDocument\\AllSubject\\In class\\term 1 year 4\\Software quality Assurance and Tesing\\Excercises\\final project\\QuanLyBanHang_2_final1\\QuanLyBanHang_2\\quanlybanhang\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\MyDocument\\AllSubject\\In class\\term 1 year 4\\Software quality Assurance and Tesing\\Excercises\\final project\\QuanLyBanHang_2_final1\\QuanLyBanHang_2\\quanlybanhang\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\MyDocument\\AllSubject\\In class\\term 1 year 4\\Software quality Assurance and Tesing\\Excercises\\final project\\QuanLyBanHang_2_final1\\QuanLyBanHang_2\\quanlybanhang\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\MyDocument\\AllSubject\\In class\\term 1 year 4\\Software quality Assurance and Tesing\\Excercises\\final project\\QuanLyBanHang_2_final1\\QuanLyBanHang_2\\quanlybanhang\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\MyDocument\\AllSubject\\In class\\term 1 year 4\\Software quality Assurance and Tesing\\Excercises\\final project\\QuanLyBanHang_2_final1\\QuanLyBanHang_2\\quanlybanhang\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\MyDocument\\AllSubject\\In class\\term 1 year 4\\Software quality Assurance and Tesing\\Excercises\\final project\\QuanLyBanHang_2_final1\\QuanLyBanHang_2\\quanlybanhang\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\MyDocument\\AllSubject\\In class\\term 1 year 4\\Software quality Assurance and Tesing\\Excercises\\final project\\QuanLyBanHang_2_final1\\QuanLyBanHang_2\\quanlybanhang\\frmkhachhangtheothanhpho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmkhachhangtheothanhpho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\MyDocument\\AllSubject\\In class\\term 1 year 4\\Software quality Assurance and Tesing\\Excercises\\final project\\QuanLyBanHang_2_final1\\QuanLyBanHang_2\\quanlybanhang\\frmkhachhangtheothanhpho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmkhachhangtheothanhpho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\MyDocument\\AllSubject\\In class\\term 1 year 4\\Software quality Assurance and Tesing\\Excercises\\final project\\QuanLyBanHang_2_final1\\QuanLyBanHang_2\\quanlybanhang\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\MyDocument\\AllSubject\\In class\\term 1 year 4\\Software quality Assurance and Tesing\\Excercises\\final project\\QuanLyBanHang_2_final1\\QuanLyBanHang_2\\quanlybanhang\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\MyDocument\\AllSubject\\In class\\term 1 year 4\\Software quality Assurance and Tesing\\Excercises\\final project\\QuanLyBanHang_2_final1\\QuanLyBanHang_2\\quanlybanhang\\frmtacgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmtacgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\MyDocument\\AllSubject\\In class\\term 1 year 4\\Software quality Assurance and Tesing\\Excercises\\final project\\QuanLyBanHang_2_final1\\QuanLyBanHang_2\\quanlybanhang\\frmhoadon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmhoadon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\MyDocument\\AllSubject\\In class\\term 1 year 4\\Software quality Assurance and Tesing\\Excercises\\final project\\QuanLyBanHang_2_final1\\QuanLyBanHang_2\\quanlybanhang\\frmhoadontheokhachhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmhoadontheokhachhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\MyDocument\\AllSubject\\In class\\term 1 year 4\\Software quality Assurance and Tesing\\Excercises\\final project\\QuanLyBanHang_2_final1\\QuanLyBanHang_2\\quanlybanhang\\frmhoadontheokhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmhoadontheokhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\MyDocument\\AllSubject\\In class\\term 1 year 4\\Software quality Assurance and Tesing\\Excercises\\final project\\QuanLyBanHang_2_final1\\QuanLyBanHang_2\\QuanLyBanHang\\Form1.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\Form1.cs",
+              "ToolTip": "D:\\MyDocument\\AllSubject\\In class\\term 1 year 4\\Software quality Assurance and Tesing\\Excercises\\final project\\QuanLyBanHang_2_final1\\QuanLyBanHang_2\\QuanLyBanHang\\Form1.cs",
+              "RelativeToolTip": "QuanLyBanHang\\Form1.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAAwIAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:44:40.983Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmNhanVien.cs",
+              "DocumentMoniker": "D:\\MyDocument\\AllSubject\\In class\\term 1 year 4\\Software quality Assurance and Tesing\\Excercises\\final project\\QuanLyBanHang_2_final1\\QuanLyBanHang_2\\QuanLyBanHang\\frmNhanVien.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\frmNhanVien.cs",
+              "ToolTip": "D:\\MyDocument\\AllSubject\\In class\\term 1 year 4\\Software quality Assurance and Tesing\\Excercises\\final project\\QuanLyBanHang_2_final1\\QuanLyBanHang_2\\QuanLyBanHang\\frmNhanVien.cs",
+              "RelativeToolTip": "QuanLyBanHang\\frmNhanVien.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAwwDEBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T09:06:47.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmSanPham.cs",
+              "DocumentMoniker": "D:\\MyDocument\\AllSubject\\In class\\term 1 year 4\\Software quality Assurance and Tesing\\Excercises\\final project\\QuanLyBanHang_2_final1\\QuanLyBanHang_2\\QuanLyBanHang\\frmSanPham.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\frmSanPham.cs",
+              "ToolTip": "D:\\MyDocument\\AllSubject\\In class\\term 1 year 4\\Software quality Assurance and Tesing\\Excercises\\final project\\QuanLyBanHang_2_final1\\QuanLyBanHang_2\\QuanLyBanHang\\frmSanPham.cs",
+              "RelativeToolTip": "QuanLyBanHang\\frmSanPham.cs",
+              "ViewState": "AgIAAP4AAAAAAAAAAAAcwAIBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:20:37.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmSanPham.Designer.cs",
+              "DocumentMoniker": "D:\\MyDocument\\AllSubject\\In class\\term 1 year 4\\Software quality Assurance and Tesing\\Excercises\\final project\\QuanLyBanHang_2_final1\\QuanLyBanHang_2\\QuanLyBanHang\\frmSanPham.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\frmSanPham.Designer.cs",
+              "ToolTip": "D:\\MyDocument\\AllSubject\\In class\\term 1 year 4\\Software quality Assurance and Tesing\\Excercises\\final project\\QuanLyBanHang_2_final1\\QuanLyBanHang_2\\QuanLyBanHang\\frmSanPham.Designer.cs",
+              "RelativeToolTip": "QuanLyBanHang\\frmSanPham.Designer.cs",
+              "ViewState": "AgIAAB8BAAAAAAAAAAAQwBsBAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:57:18.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmNhanVien.cs [Design]",
+              "DocumentMoniker": "D:\\MyDocument\\AllSubject\\In class\\term 1 year 4\\Software quality Assurance and Tesing\\Excercises\\final project\\QuanLyBanHang_2_final1\\QuanLyBanHang_2\\QuanLyBanHang\\frmNhanVien.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\frmNhanVien.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\QuanLyBanHang_2_final\\QuanLyBanHang_2\\QuanLyBanHang\\frmNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:05:51.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmNhanVien.Designer.cs",
+              "DocumentMoniker": "D:\\MyDocument\\AllSubject\\In class\\term 1 year 4\\Software quality Assurance and Tesing\\Excercises\\final project\\QuanLyBanHang_2_final1\\QuanLyBanHang_2\\QuanLyBanHang\\frmNhanVien.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\frmNhanVien.Designer.cs",
+              "ToolTip": "D:\\MyDocument\\AllSubject\\In class\\term 1 year 4\\Software quality Assurance and Tesing\\Excercises\\final project\\QuanLyBanHang_2_final1\\QuanLyBanHang_2\\QuanLyBanHang\\frmNhanVien.Designer.cs",
+              "RelativeToolTip": "QuanLyBanHang\\frmNhanVien.Designer.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAYwHwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:58:21.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmSanPham.cs [Design]",
+              "DocumentMoniker": "D:\\MyDocument\\AllSubject\\In class\\term 1 year 4\\Software quality Assurance and Tesing\\Excercises\\final project\\QuanLyBanHang_2_final1\\QuanLyBanHang_2\\QuanLyBanHang\\frmSanPham.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\frmSanPham.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\QuanLyBanHang_2_final\\QuanLyBanHang_2\\QuanLyBanHang\\frmSanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:57:01.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmKhachHang.cs",
+              "DocumentMoniker": "D:\\MyDocument\\AllSubject\\In class\\term 1 year 4\\Software quality Assurance and Tesing\\Excercises\\final project\\QuanLyBanHang_2_final1\\QuanLyBanHang_2\\QuanLyBanHang\\frmKhachHang.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\frmKhachHang.cs",
+              "ToolTip": "D:\\MyDocument\\AllSubject\\In class\\term 1 year 4\\Software quality Assurance and Tesing\\Excercises\\final project\\QuanLyBanHang_2_final1\\QuanLyBanHang_2\\QuanLyBanHang\\frmKhachHang.cs",
+              "RelativeToolTip": "QuanLyBanHang\\frmKhachHang.cs",
+              "ViewState": "AgIAABMBAAAAAAAAAAAAAB8BAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T07:39:52.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "D:\\MyDocument\\AllSubject\\In class\\term 1 year 4\\Software quality Assurance and Tesing\\Excercises\\final project\\QuanLyBanHang_2_final1\\QuanLyBanHang_2\\QuanLyBanHang\\Form2.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\Form2.cs",
+              "ToolTip": "D:\\CT243\\Thuc_hanh_kiem_thu_PM_thu_cong_cho_SV\\QuanLyBanHang_2\\QuanLyBanHang\\Form2.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\CT243\\Thuc_hanh_kiem_thu_PM_thu_cong_cho_SV\\QuanLyBanHang_2\\QuanLyBanHang\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T08:17:43.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmKhachHangTheoThanhPho.cs",
+              "DocumentMoniker": "D:\\MyDocument\\AllSubject\\In class\\term 1 year 4\\Software quality Assurance and Tesing\\Excercises\\final project\\QuanLyBanHang_2_final1\\QuanLyBanHang_2\\QuanLyBanHang\\frmKhachHangTheoThanhPho.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\frmKhachHangTheoThanhPho.cs",
+              "ToolTip": "D:\\MyDocument\\AllSubject\\In class\\term 1 year 4\\Software quality Assurance and Tesing\\Excercises\\final project\\QuanLyBanHang_2_final1\\QuanLyBanHang_2\\QuanLyBanHang\\frmKhachHangTheoThanhPho.cs",
+              "RelativeToolTip": "QuanLyBanHang\\frmKhachHangTheoThanhPho.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T07:46:17.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmKhachHang.cs [Design]",
+              "DocumentMoniker": "D:\\MyDocument\\AllSubject\\In class\\term 1 year 4\\Software quality Assurance and Tesing\\Excercises\\final project\\QuanLyBanHang_2_final1\\QuanLyBanHang_2\\QuanLyBanHang\\frmKhachHang.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\frmKhachHang.cs",
+              "ToolTip": "D:\\CT243\\Thuc_hanh_kiem_thu_PM_thu_cong_cho_SV\\QuanLyBanHang_2\\QuanLyBanHang\\frmKhachHang.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\CT243\\Thuc_hanh_kiem_thu_PM_thu_cong_cho_SV\\QuanLyBanHang_2\\QuanLyBanHang\\frmKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T07:39:50.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmHoaDon.cs [Design]",
+              "DocumentMoniker": "D:\\MyDocument\\AllSubject\\In class\\term 1 year 4\\Software quality Assurance and Tesing\\Excercises\\final project\\QuanLyBanHang_2_final1\\QuanLyBanHang_2\\QuanLyBanHang\\frmHoaDon.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\frmHoaDon.cs",
+              "ToolTip": "D:\\CT243\\Thuc_hanh_kiem_thu_PM_thu_cong_cho_SV\\QuanLyBanHang_2\\QuanLyBanHang\\frmHoaDon.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\CT243\\Thuc_hanh_kiem_thu_PM_thu_cong_cho_SV\\QuanLyBanHang_2\\QuanLyBanHang\\frmHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:20:19.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmHoaDon.cs",
+              "DocumentMoniker": "D:\\MyDocument\\AllSubject\\In class\\term 1 year 4\\Software quality Assurance and Tesing\\Excercises\\final project\\QuanLyBanHang_2_final1\\QuanLyBanHang_2\\QuanLyBanHang\\frmHoaDon.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\frmHoaDon.cs",
+              "ToolTip": "D:\\MyDocument\\AllSubject\\In class\\term 1 year 4\\Software quality Assurance and Tesing\\Excercises\\final project\\QuanLyBanHang_2_final1\\QuanLyBanHang_2\\QuanLyBanHang\\frmHoaDon.cs",
+              "RelativeToolTip": "QuanLyBanHang\\frmHoaDon.cs",
+              "ViewState": "AgIAAPQAAAAAAAAAAAAewPwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:54:41.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\MyDocument\\AllSubject\\In class\\term 1 year 4\\Software quality Assurance and Tesing\\Excercises\\final project\\QuanLyBanHang_2_final1\\QuanLyBanHang_2\\QuanLyBanHang\\Form2.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\Form2.cs",
+              "ToolTip": "D:\\MyDocument\\AllSubject\\In class\\term 1 year 4\\Software quality Assurance and Tesing\\Excercises\\final project\\QuanLyBanHang_2_final1\\QuanLyBanHang_2\\QuanLyBanHang\\Form2.cs",
+              "RelativeToolTip": "QuanLyBanHang\\Form2.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T08:17:47.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmKhachHangTheoThanhPho.cs [Design]",
+              "DocumentMoniker": "D:\\MyDocument\\AllSubject\\In class\\term 1 year 4\\Software quality Assurance and Tesing\\Excercises\\final project\\QuanLyBanHang_2_final1\\QuanLyBanHang_2\\QuanLyBanHang\\frmKhachHangTheoThanhPho.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\frmKhachHangTheoThanhPho.cs",
+              "ToolTip": "D:\\CT243\\Thuc_hanh_kiem_thu_PM_thu_cong_cho_SV\\QuanLyBanHang_2\\QuanLyBanHang\\frmKhachHangTheoThanhPho.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\CT243\\Thuc_hanh_kiem_thu_PM_thu_cong_cho_SV\\QuanLyBanHang_2\\QuanLyBanHang\\frmKhachHangTheoThanhPho.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T07:45:51.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmTacGia.cs [Design]",
+              "DocumentMoniker": "D:\\MyDocument\\AllSubject\\In class\\term 1 year 4\\Software quality Assurance and Tesing\\Excercises\\final project\\QuanLyBanHang_2_final1\\QuanLyBanHang_2\\QuanLyBanHang\\frmTacGia.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\frmTacGia.cs",
+              "ToolTip": "D:\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang 2\\QuanLyBanHang\\frmTacGia.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang 2\\QuanLyBanHang\\frmTacGia.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T07:29:15.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmHoaDon.Designer.cs",
+              "DocumentMoniker": "D:\\MyDocument\\AllSubject\\In class\\term 1 year 4\\Software quality Assurance and Tesing\\Excercises\\final project\\QuanLyBanHang_2_final1\\QuanLyBanHang_2\\QuanLyBanHang\\frmHoaDon.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\frmHoaDon.Designer.cs",
+              "ToolTip": "D:\\MyDocument\\AllSubject\\In class\\term 1 year 4\\Software quality Assurance and Tesing\\Excercises\\final project\\QuanLyBanHang_2_final1\\QuanLyBanHang_2\\QuanLyBanHang\\frmHoaDon.Designer.cs",
+              "RelativeToolTip": "QuanLyBanHang\\frmHoaDon.Designer.cs",
+              "ViewState": "AgIAADwBAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:58:15.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmHoaDonTheoKhachHang.designer.cs",
+              "DocumentMoniker": "D:\\MyDocument\\AllSubject\\In class\\term 1 year 4\\Software quality Assurance and Tesing\\Excercises\\final project\\QuanLyBanHang_2_final1\\QuanLyBanHang_2\\QuanLyBanHang\\frmHoaDonTheoKhachHang.designer.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\frmHoaDonTheoKhachHang.designer.cs",
+              "ToolTip": "D:\\MyDocument\\AllSubject\\In class\\term 1 year 4\\Software quality Assurance and Tesing\\Excercises\\final project\\QuanLyBanHang_2_final1\\QuanLyBanHang_2\\QuanLyBanHang\\frmHoaDonTheoKhachHang.designer.cs",
+              "RelativeToolTip": "QuanLyBanHang\\frmHoaDonTheoKhachHang.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:58:19.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmHoaDonTheoKhachHang.cs [Design]",
+              "DocumentMoniker": "D:\\MyDocument\\AllSubject\\In class\\term 1 year 4\\Software quality Assurance and Tesing\\Excercises\\final project\\QuanLyBanHang_2_final1\\QuanLyBanHang_2\\QuanLyBanHang\\frmHoaDonTheoKhachHang.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\frmHoaDonTheoKhachHang.cs",
+              "ToolTip": "D:\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang 2\\QuanLyBanHang\\frmHoaDonTheoKhachHang.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang 2\\QuanLyBanHang\\frmHoaDonTheoKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:58:18.053Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
